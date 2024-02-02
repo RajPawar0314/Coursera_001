@@ -1,1 +1,6 @@
-theme: hacker
+title: myproject
+baseurl: "/myproject"
+url: ""
+markdown: kramdown
+theme: jekyll-theme-cayman
+exclude: [vendor]
