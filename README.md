@@ -1,2 +1,2 @@
 # Coursera_001
-# Coursera learning repository
+Coursera learning repository
